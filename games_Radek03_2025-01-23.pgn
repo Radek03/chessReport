@@ -1,0 +1,78 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/lWnd7OQ3"]
+[Date "2025.01.23"]
+[Round "?"]
+[White "Radek03"]
+[Black "Feder1020"]
+[Result "1/2-1/2"]
+[UTCDate "2025.01.23"]
+[UTCTime "11:23:54"]
+[WhiteElo "2129"]
+[BlackElo "2216"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B86"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 Be7 7. Bb3 a6 8. O-O
+Qc7 9. h3 b5 10. a3 Nc6 11. Be3 Na5 12. Ba2 O-O 13. Qf3 Bb7 14. Rfe1 Nc4 15.
+Bxc4 Qxc4 16. Rad1 Rfe8 17. Bc1 Rac8 18. Qg3 Bf8 19. Bg5 Nd7 20. Rd3 b4 21.
+axb4 Qxb4 22. Nb3 Ne5 23. Rdd1 a5 24. Rd4 Qb6 25. Be3 Qa6 26. Ra4 Nc6 27. Rea1
+Red8 28. Nxa5 Nxa5 29. Rxa5 Qc4 30. R1a4 Qc7 31. Nb5 Qxc2 32. Ra7 Bxe4 33. Qf4
+d5 34. Qxf7+ Kh8 35. Bh6 gxh6 36. Qf6+ Kg8 37. Qf7+ Kh8 38. Qf6+ Kg8 39. Qf7+
+Kh8 1/2-1/2
+
+[Event "Rated blitz game"]
+[Site "https://lichess.org/nkG5LhCe"]
+[Date "2025.01.23"]
+[Round "?"]
+[White "KARIM960"]
+[Black "Radek03"]
+[Result "0-1"]
+[UTCDate "2025.01.23"]
+[UTCTime "11:18:58"]
+[WhiteElo "2056"]
+[BlackElo "2125"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 e6 4. g3 a6 5. Bg2 Nf6 6. Nge2 d6 7. d3 Be7 8. a3 O-O
+9. Rb1 h6 10. O-O Rb8 11. h3 b5 12. cxb5 axb5 13. b4 c4 14. dxc4 bxc4 15. b5
+Ne5 16. f4 Nd3 17. a4 Qa5 18. Bd2 Qb6+ 19. Kh2 Rd8 20. a5 Qxa5 21. Nd5 Qa7 22.
+b6 Qb7 23. Nxe7+ Qxe7 24. Be3 Bb7 25. Nc3 d5 26. e5 Ne4 27. Nxe4 dxe4 28. Qa4
+c3 29. Bxe4 Nc5 30. Bxc5 Qxc5 31. Bxb7 Rd2+ 32. Bg2 c2 33. Rbc1 Rxb6 34. h4 g6
+35. Kh3 Kg7 36. Qe4 Rb4 37. Qf3 Rbd4 38. Rf2 Rd1 39. Rcxc2 Qe7 40. g4 R1d3 41.
+Kg3 Rxf3+ 42. Rxf3 Qb4 43. Rcf2 Qe1 44. Kh3 Rd2 45. Rf1 Qe2 46. Rg1 g5 47. hxg5
+hxg5 48. f5 Rd8 49. f6+ Kg6 50. Rg3 Rh8# 0-1
+
+[Event "Rated blitz game"]
+[Site "https://lichess.org/GeD59THn"]
+[Date "2025.01.23"]
+[Round "?"]
+[White "amarbara2"]
+[Black "Radek03"]
+[Result "1-0"]
+[UTCDate "2025.01.23"]
+[UTCTime "11:13:36"]
+[WhiteElo "2104"]
+[BlackElo "2131"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A08"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O Nf6 5. d3 e6 6. Nbd2 Be7 7. e4 O-O 8. e5
+Nd7 9. Re1 a6 10. Qe2 b5 11. h4 Rb8 12. Nf1 Bb7 13. Bf4 d4 14. N1h2 Nb6 15. Ng4
+Nd5 16. Bg5 Bxg5 17. Nxg5 h6 18. Ne4 Qc7 19. c4 dxc3 20. bxc3 b4 21. c4 Nd4 22.
+Qd2 Ne7 23. Nxh6+ Kh8 24. Ng4 Nef5 25. Qg5 Bxe4 26. Bxe4 Nc2 27. Qh5+ Kg8 28.
+Nf6+ gxf6 29. exf6 Rfc8 30. Qg5+ Kf8 31. Bxf5 Nxe1 32. Qg7+ Ke8 33. Rxe1 Rb7
+34. Bxe6 fxe6 35. Rxe6+ Kd8 36. Qf8+ Kd7 37. Qe7# 1-0
+
