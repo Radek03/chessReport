@@ -677,7 +677,16 @@ def generateRaport(send):
             output_path = f"weekly_report.png"
             plt.savefig(output_path, dpi=600, bbox_inches='tight')
 
+    if send:
+            # ENTER TESTING DATA
+            sender_email = "example@gmail.com"
+            sender_password = "example"
+            recipient_email = "example@gmail.com"
+            subject = "Chess Analyzer Report"
+            body = "Hello,\n\nSuper chess raport."
+            attachment_path = "weekly_report.png"
 
+            send_email(sender_email, sender_password, recipient_email, subject, body, attachment_path)
 
 
 
