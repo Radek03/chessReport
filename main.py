@@ -286,7 +286,8 @@ def mainFunction():
     usercheck = input("Do you want to see an example analisys or have neccesary data for your own analisys? (Lichess token and username)\n1. See example analisys\t 2. I have valid credentials\n")
 
     username="Radek03"
-    TOKEN = "lip_CYH34FOuKQ3R5vNzcyux"
+    #ente the token
+    TOKEN = "example"
 
     if usercheck == "2":
 
